@@ -1,0 +1,7 @@
+1. Create new user of type OWNER, GENERAL
+  1.1.  OWNER can add inventory and manage with all permissions
+  1.2.  User or account type GENERAL will be type of end user
+
+2. OWNER account or user
+  2.1. OWNER should able to login with all permissions
+  2.2. OWNER should able to add/manage inventories
